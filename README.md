@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src=".github/logo.svg" width="250px" />
-</h1>
-
 </p>
 <p align="center">
   <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,11 +11,6 @@
 
 Be the Hero é um projeto idealizado para conectar pessoas que desejam ajudar ONGs.
 Foi desenvolvido para estudo das tecnologias durante a 11ª semana Omnistack da Rocketseat.
-
-<h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src=".github/preview.jpg" width="500px" />
-</h1>
-
 
 ## Tecnologias
 
